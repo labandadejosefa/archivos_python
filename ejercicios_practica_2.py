@@ -76,7 +76,7 @@ def ej4():
                     deptos_3amb +=1    
 
             except:
-                print('Dato faltante o erróneo para cantidad de ambientes, en fila',i+1)    
+                print('Dato faltante o erróneo para cantidad de ambientes, en fila',i)    
 
         print('Total departamentos de 2 ambientes:',deptos_2amb)
         print('Total departamentos de 3 ambientes:',deptos_3amb)
